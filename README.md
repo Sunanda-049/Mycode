@@ -1,0 +1,2 @@
+# Mycode
+i want practice
