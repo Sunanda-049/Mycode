@@ -1,2 +1,2 @@
 # Mycode
-i want practice
+i want to practice
